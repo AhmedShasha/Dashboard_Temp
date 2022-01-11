@@ -34,17 +34,20 @@ $exTitle = "Home";
           <!-- /.col -->
         </div>
         <!-- /.row -->
+
       </div>
       <!-- /.container-fluid -->
     </div>
     <!-- /.content-header -->
 
     <!-- Main content -->
-
+    <div class="content-body">
+      <div class="col-md-12" style="background-color: red;">
+        <h3>Here</h3>
+      </div>
+    </div>
     <!-- /.content -->
   </div>
-
-
   <?php include 'includes/footer.php'; ?>
 </body>
 
