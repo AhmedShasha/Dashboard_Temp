@@ -9,6 +9,7 @@ $exTitle = "Home";
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="plugins/css/index.css">
   <?php
   include 'includes/temp.php';
   ?>
@@ -42,9 +43,7 @@ $exTitle = "Home";
 
     <!-- Main content -->
     <div class="content-body">
-      <div class="col-md-12" style="background-color: red;">
         <h3>Here</h3>
-      </div>
     </div>
     <!-- /.content -->
   </div>

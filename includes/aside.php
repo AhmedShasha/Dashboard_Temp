@@ -5,7 +5,7 @@
     <!-- Sidebar user panel (optional) -->
     <div class="user-panel mt-3 pb-3 mb-3 d-flex">
       <div class="image p-0 m-0">
-        <img src="../CRMFromScratch/plugins/media/logo_white.png" alt="User Image" style="width: 65px" />
+        <img src="plugins/media/logo_white.png" alt="User Image" style="width: 65px" />
       </div>
       <div class="info text-center mt-3 p-0">
         <a href="#" class="d-block">SD-SOLUTIONS</a>
