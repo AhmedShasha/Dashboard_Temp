@@ -15,6 +15,7 @@ if (@$exTitle) $title = $alt . "-$exTitle";
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title> <?php print $title; ?></title>
     <link rel="icon" type="image/png" href="plugins/media/sdIcon.png">
+    <link rel="stylesheet" href="plugins/css/style.css">
 
     <!-- Google Font: Source Sans Pro -->
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,400,400i,700&display=fallback" />
